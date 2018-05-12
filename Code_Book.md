@@ -3,8 +3,8 @@ This is for `tidy.txt`
 
 ### Identifiers
 
-subject\\
-activity\\
+subject
+activity
 
 ### Measurements
 
